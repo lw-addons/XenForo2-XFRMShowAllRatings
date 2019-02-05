@@ -1,0 +1,6 @@
+{
+    "from_class": "XFRM\\Repository\\ResourceRating",
+    "to_class": "LiamW\\ShowAllRatings\\XFRM\\Repository\\ResourceRating",
+    "execute_order": 0,
+    "active": true
+}

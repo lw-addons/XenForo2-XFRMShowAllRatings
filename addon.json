@@ -1,0 +1,16 @@
+{
+    "legacy_addon_id": "liam_all_ratings",
+    "title": "[XFRM] Show All Ratings",
+    "description": "",
+    "version_id": 2000031,
+    "version_string": "2.0.0 Beta 1",
+    "dev": "LW Addons (Liam Williams)",
+    "dev_url": "https://lw-addons.net",
+    "faq_url": "",
+    "support_url": "",
+    "extra_urls": {
+        "Contribute on GitHub": "https://github.com/lw-addons/XenForo2-XFRMShowAllRatings"
+    },
+    "require": [],
+    "icon": ""
+}
